@@ -6,7 +6,7 @@ Welcome to the **Hospital Management System** repository! This project is design
 
 
 ## Screenshots
-![Hospital Management System Desktop Demo 1](./readme-images/Screenshot4.png "Hospital Management System Desktop Demo 1")
+![Hospital Management System Desktop Demo 1](./readme-images/Screenshot 4.png "Hospital Management System Desktop Demo 1")
 *Login*
 
 
